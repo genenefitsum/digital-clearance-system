@@ -1,19 +1,7 @@
-# Digital-Clearance-Project
-A modern, efficient desktop application for managing university student clearances with JavaFX and SQLite.
-✨ Overview
+# Digital Clearance System
 
-The Digital Clearance System is a comprehensive desktop application designed to streamline the university clearance process for Bahir Dar Institute of Technology. The system allows students to track their clearance status across various departments while enabling office administrators to manage approvals, warnings, and denials efficiently.
+Desktop workflow system that manages student clearance in a structured JavaFX
+application, with SQLite for storage. My only project outside the JavaScript
+ecosystem.
 
-🎯 Key Features
-
-👨‍🎓 Student Portal: Real-time clearance tracking, certificate generation, and status monitoring
-
-🏢 Office Dashboard: Department-specific clearance management with search capabilities
-
-📊 Automated Status: Default approval system for most offices (except Dormitory)
-
-📄 Certificate Generation: Professional clearance certificates for fully cleared students
-
-🔐 Secure Authentication: Role-based login system for students and offices
-
-💾 Local Database: SQLite database for reliable, portable data storage
+Stack: Java, JavaFX, SQLite
